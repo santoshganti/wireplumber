@@ -10,7 +10,7 @@ This repository provides **WirePlumber configuration files** designed to enhance
   
   - Some games rely on a specific sink name for haptics to work correctly.
   - This is implemented in `wireplumber.conf.d` to ensure compatibility with newer versions of WirePlumber.
-  - **Reference:** [Reddit - DualSense Haptic Feedback Issue][reddit-dualsense]
+  - [Reddit - DualSense Haptic Feedback Issue](#references)
 
 - **Prevents PlayStation controllers from hijacking audio output** (e.g., DualSense becoming the default device).
 
