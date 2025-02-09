@@ -2,7 +2,7 @@
 
 ## 🎮 Purpose of This Repository
 
-This repository provides **WirePlumber configuration files** designed to enhance **audio behavior on SteamOS, Bazzite, and other Linux gaming distros**. The goal is to **fix common audio issues, prevent unwanted device switching, and improve compatibility**—all without requiring root access. These configurations are **stored in ****`~/.config/wireplumber/`**, ensuring they **persist across OS updates** while remaining easy to modify or remove.
+This repository provides **WirePlumber configuration files** designed to enhance **audio behavior on SteamOS, Bazzite, and other Linux gaming distros**. The goal is to **fix common audio issues, prevent unwanted device switching, and improve compatibility**—all without requiring root access. These configurations are **stored in `~/.config/wireplumber/`**, ensuring they **persist across OS updates** while remaining easy to modify or remove.
 
 ### ✅ What This Repo Fixes / Improves:
 
